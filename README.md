@@ -23,6 +23,7 @@ The following is overall model which includes Input, Logic, and Output:
 
 ## Initalization
 The initial parameters which are set until the DCM passes in other parameters to the pacemaker which are then decoded and sent back to the DCM for checking
+
 ![](Images/Initalization.png)
 ![](Images/Serial%20Out.png)
 
